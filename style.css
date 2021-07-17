@@ -1,0 +1,21 @@
+ body, 
+ html {
+ 	font-family: Montserrat;
+ }
+ img {
+ 	transition: all 1s;
+ 	border: 6px solid blue;
+ }
+
+ img:hover {
+ 	transform: scale(1.1);
+ }
+
+ body {
+    background-image: url(car.jpg);
+    background-size: 1400px 1400px;
+ }
+
+ ul {
+    color: rgb(141, 207, 138);
+ }

@@ -1,0 +1,21 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-image: url(nature.jpg);
+	background-size: cover;
+}
+
+h1 {
+	color: orangered;
+}
+
+img {
+	transition: all 1s;
+	border: 7px solid rgba(197, 232, 155, 0.5);
+}
+
+img:hover {
+	transform: scale(1.1);
+}
